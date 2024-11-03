@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: right;
+}
+html {
+    background-color: aqua;
+}
+p {
+    text-align: right;
+}
+h6 {
+    text-align: right;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+}
+.button:hover {
+    transform: scale(1.5);
+}
+button:hover {
+    background-color: chartreuse;
+}

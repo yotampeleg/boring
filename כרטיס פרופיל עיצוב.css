@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: right;
+}
+
+.img-and-p {
+    display: flex;
+    align-items: center;
+    text-align: right;
+}
+
+.img-and-p img {
+    margin-left: 10px;
+    width: 100px;
+    height: 60px;
+}
+html {
+    background-color: aqua;
+}

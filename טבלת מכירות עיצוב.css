@@ -1,0 +1,16 @@
+table{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    justify-content: center;
+}
+html {
+    text-align: center;
+    background-color: rgb(28, 28, 86);
+}
+tr:hover {
+    background-color: aqua;
+}
+th {
+    background-color: blue;
+}

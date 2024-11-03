@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: 200px;
+    gap: 40px;
+
+}
+h1 {
+    text-align: center;
+}
+.a:hover {
+    transform: scale(1.1);
+}
+html {
+    background-color: aqua;
+}
